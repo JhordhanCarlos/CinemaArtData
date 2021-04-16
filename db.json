@@ -1,0 +1,858 @@
+{
+    "data" : [
+    {   
+        "id": 1,
+        "chapter":1,
+        "title":"Subtitles 101",
+        "url":"http://davidbordwell.net/blog/?p=361",
+        "readed":false
+    },
+    {
+        "id": 2,
+        "chapter":1,
+        "title":"Do filmmakers deserve the last rord?",
+        "url":"http://davidbordwell.net/blog/?p=1174",
+        "readed":false
+    },
+    {
+        "id": 3,
+        "chapter":1,
+        "title":"The Magic number 30, give or take 4",
+        "url":"http://davidbordwell.net/blog/?p=1300",
+        "readed":false
+    },
+    {
+        "id": 4,
+        "chapter":1,
+        "title":"Independent film: how different",
+        "url":"http://davidbordwell.net/blog/?p=22",
+        "readed":false
+    },
+    {
+        "id": 5,
+        "chapter":1,
+        "title":"Manhattan: Symphony of a Great City",
+        "url":"http://davidbordwell.net/blog/?p=1709",
+        "readed":false
+    },
+    {
+        "id": 6,
+        "chapter":1,
+        "title":"Who the devil wrote it?Apologiws to Peter Bogdanovich",
+        "url":"http://davidbordwell.net/blog/?p=41",
+        "readed":false
+    },
+    {
+        "id": 7,
+        "chapter":1,
+        "title":"What won the weekend? or, How to understand box-office figures",
+        "url":"http://davidbordwell.net/blog/?p=21",
+        "readed":false
+    },
+    {
+        "id": 8,
+        "chapter":1,
+        "title":"Filling the New Line gap",
+        "url":"http://davidbordwell.net/blog/?p=2983",
+        "readed":false
+    },
+    {
+        "id": 9,
+        "chapter":1,
+        "title":"Live with it! There’ll always be movie sequels. Good thing, too.",
+        "url":"http://davidbordwell.net/blog/?p=836",
+        "readed":false
+    },
+    {
+        "id": 10,
+        "chapter":1,
+        "title":"Comic-Con 2008, Part 2",
+        "url":"http://davidbordwell.net/blog/?p=2710",
+        "readed":false
+    },
+    {
+        "id": 11,
+        "chapter":1,
+        "title":"I drink your Oscar promo",
+        "url":"http://davidbordwell.net/blog/?p=1959",
+        "readed":false
+    },
+    {
+        "id": 12,
+        "chapter":1,
+        "title":"Snakes, no, Borat, yes: Not all Internet publicity is the same",
+        "url":"http://davidbordwell.net/blog/?p=269",
+        "readed":false
+    },
+    {
+        "id": 13,
+        "chapter":1,
+        "title":"Woman and children first",
+        "url":"http://davidbordwell.net/blog/?p=2197",
+        "readed":false
+    },
+    {
+        "id": 14,
+        "chapter":1,
+        "title":"Cannes: Behind the art, hype, and politics",
+        "url":"http://davidbordwell.net/blog/?p=931",
+        "readed":false
+    },
+    {
+        "id": 15,
+        "chapter":1,
+        "title":"New media and old storytelling",
+        "url":"http://davidbordwell.net/blog/?p=9827",
+        "readed":false
+    },
+    {
+        "id": 16,
+        "chapter":1,
+        "title":"The Celestial multiplex",
+        "url":"http://davidbordwell.net/blog/?p=595",
+        "readed":false
+    },
+    {
+        "id": 17,
+        "chapter":1,
+        "title":"Area Man Lives in Fear that Attractive Woman Will Ask What’s on His iPod",
+        "url":"http://davidbordwell.net/blog/?p=40",
+        "readed":false
+    },
+    {
+        "id": 18,
+        "chapter":1,
+        "title":"Our first anniversary, with a note on the unexpected fruits of film piracy",
+        "url":"http://davidbordwell.net/blog/?p=1351",
+        "readed":false
+    },
+    {
+        "id": 19,
+        "chapter":1,
+        "title":"Movies still matter",
+        "url":"http://davidbordwell.net/blog/?p=475",
+        "readed":false
+    },
+    {
+        "id": 20,
+        "chapter":1,
+        "title":"World rejects Hollywood blockbusters!?",
+        "url":"http://davidbordwell.net/blog/?p=458",
+        "readed":false
+    },
+    {
+        "id": 21,
+        "chapter":1,
+        "title":"A tale of 2–make that 1 and 1/3–screens",
+        "url":"http://davidbordwell.net/blog/?p=3941",
+        "readed":false
+    },
+    {
+        "id": 22,
+        "chapter":1,
+        "title":"Godard comes in many shapes and sizes",
+        "url":"http://davidbordwell.net/blog/?p=1592",
+        "readed":false
+    },
+    {
+        "id": 23,
+        "chapter":1,
+        "title":"Movies on the radio",
+        "url":"http://davidbordwell.net/blog/?p=902",
+        "readed":false
+    },
+    {
+        "id": 24,
+        "chapter":2,
+        "title":"This is your brain on movies, maybe",
+        "url":"http://davidbordwell.net/blog/?p=300",
+        "readed":false
+    },
+    {
+        "id": 25,
+        "chapter":2,
+        "title":"Slumdogged by the past",
+        "url":"http://davidbordwell.net/blog/?p=3592",
+        "readed":false
+    },
+    {
+        "id": 26,
+        "chapter":2,
+        "title":"First shots",
+        "url":"http://www.davidbordwell.net/blog/2006/11/20/first-shots/",
+        "readed":false
+    },
+    {
+        "id": 27,
+        "chapter":2,
+        "title":"Can you spot all the auteurs in this picture?",
+        "url":"http://davidbordwell.net/blog/?p=932",
+        "readed":false
+    },
+    {
+        "id": 28,
+        "chapter":2,
+        "title":"Minding movies",
+        "url":"http://davidbordwell.net/blog/?p=2004",
+        "readed":false
+    },
+    {
+        "id": 29,
+        "chapter":2,
+        "title":"Simplicity, clarity, balance: A tribute to Rudolf Arnheim",
+        "url":"http://davidbordwell.net/blog/?p=956",
+        "readed":false
+    },
+    {
+        "id": 30,
+        "chapter":3,
+        "title":"It was a dark and stormy campaign",
+        "url":"http://davidbordwell.net/blog/?p=2962",
+        "readed":false
+    },
+    {
+        "id": 31,
+        "chapter":3,
+        "title":"Originality and origin stories",
+        "url":"http://davidbordwell.net/blog/?p=44",
+        "readed":false
+    },
+    {
+        "id": 32,
+        "chapter":3,
+        "title":"The End of cinema as we know it—yet again",
+        "url":"http://davidbordwell.net/blog/?p=39",
+        "readed":false
+    },
+    {
+        "id": 33,
+        "chapter":3,
+        "title":"A behemoth from the Dead Zone",
+        "url":"http://davidbordwell.net/blog/?p=1844",
+        "readed":false
+    },
+    {
+        "id": 34,
+        "chapter":3,
+        "title":"Categorical coherence: A closer look at character subjectivity",
+        "url":"http://davidbordwell.net/blog/?p=2927",
+        "readed":false
+    },
+    {
+        "id": 35,
+        "chapter":3,
+        "title":"Times go by turns",
+        "url":"http://davidbordwell.net/blog/?p=2448",
+        "readed":false
+    },
+    {
+        "id": 36,
+        "chapter":3,
+        "title":"Your trash, my TREASURE",
+        "url":"http://davidbordwell.net/blog/?p=1781",
+        "readed":false
+    },
+    {
+        "id": 37,
+        "chapter":3,
+        "title":"Grandmaster flashback",
+        "url":"http://davidbordwell.net/blog/?p=3253",
+        "readed":false
+    },
+    {
+        "id": 38,
+        "chapter":3,
+        "title":"Title wave",
+        "url":"http://davidbordwell.net/blog/?p=2805",
+        "readed":false
+    },
+    {
+        "id": 39,
+        "chapter":4,
+        "title":"Acting up",
+        "url":"http://davidbordwell.net/blog/?p=3763",
+        "readed":false
+    },
+    {
+        "id": 40,
+        "chapter":4,
+        "title":"Good Actors spell Good Acting",
+        "url":"http://www.davidbordwell.net/blog/2006/11/24/good-actors-spell-good-acting/",
+        "readed":false
+    },
+    {
+        "id": 41,
+        "chapter":4,
+        "title":"Good Actors spell Good Acting, 2: Oscar bait",
+        "url":"http://davidbordwell.net/blog/?p=205",
+        "readed":false
+    },
+    {
+        "id": 42,
+        "chapter":4,
+        "title":"Coraline, cornered",
+        "url":"http://www.davidbordwell.net/blog/2009/02/23/coraline-cornered/",
+        "readed":false
+    },
+    {
+        "id": 43,
+        "chapter":5,
+        "title":"Classical cinema lives! New evidence for old norms",
+        "url":"http://davidbordwell.net/blog/?p=412",
+        "readed":false
+    },
+    {
+        "id": 45,
+        "chapter":5,
+        "title":"Funny framings",
+        "url":"http://davidbordwell.net/blog/?p=761",
+        "readed":false
+    },
+    {
+        "id": 46,
+        "chapter":5,
+        "title":"Gradation of emphasis, starring Glenn Ford",
+        "url":"http://davidbordwell.net/blog/?p=2986",
+        "readed":false
+    },
+    {
+        "id": 47,
+        "chapter":5,
+        "title":"Shot-consciousness",
+        "url":"http://davidbordwell.net/blog/?p=275",
+        "readed":false
+    },
+    {
+        "id": 48,
+        "chapter":5,
+        "title":"Sleeves",
+        "url":"http://davidbordwell.net/blog/?p=1549",
+        "readed":false
+    },
+    {
+        "id": 49,
+        "chapter":5,
+        "title":"Walk the talk",
+        "url":"http://davidbordwell.net/blog/?p=382",
+        "readed":false
+    },
+    {
+        "id": 50,
+        "chapter":5,
+        "title":"Hands (and faces) across the table",
+        "url":"http://davidbordwell.net/blog/?p=1944",
+        "readed":false
+    },
+    {
+        "id": 50,
+        "chapter":6,
+        "title":"My name is David and I’m a frame-counter",
+        "url":"http://davidbordwell.net/blog/?p=230",
+        "readed":false
+    },
+    {
+        "id": 51,
+        "chapter":6,
+        "title":"What happens between shots happens between your ears",
+        "url":"http://davidbordwell.net/blog/?p=1861",
+        "readed":false
+    },
+    {
+        "id": 52,
+        "chapter":6,
+        "title":"Truly madly cinematically",
+        "url":"http://davidbordwell.net/blog/?p=2155",
+        "readed":false
+    },
+    {
+        "id": 53,
+        "chapter":6,
+        "title":"The eyeline match goes way, way back",
+        "url":"http://davidbordwell.net/blog/?p=3518",
+        "readed":false
+    },
+    {
+        "id": 54,
+        "chapter":6,
+        "title":"They’re looking for us",
+        "url":"http://davidbordwell.net/blog/?p=2743",
+        "readed":false
+    },
+    {
+        "id": 55,
+        "chapter":6,
+        "title":"Angles and perceptions; with a note on Thai censorship",
+        "url":"http://davidbordwell.net/blog/?p=744",
+        "readed":false
+    },
+    {
+        "id": 56,
+        "chapter":6,
+        "title":"Three nights of a dreamer",
+        "url":"http://davidbordwell.net/blog/?p=1457",
+        "readed":false
+    },
+    {
+        "id": 57,
+        "chapter":6,
+        "title":"Unsteadicam chronicles",
+        "url":"http://davidbordwell.net/blog/?p=1175",
+        "readed":false
+    },
+    {
+        "id": 58,
+        "chapter":6,
+        "title":"[insert your favorite Bourne pun here]",
+        "url":"http://davidbordwell.net/blog/?p=1230",
+        "readed":false
+    },
+    {
+        "id": 59,
+        "chapter":6,
+        "title":"I broke everything new again",
+        "url":"http://davidbordwell.net/blog/?p=1285",
+        "readed":false
+    },
+    {
+        "id": 60,
+        "chapter":6,
+        "title":"Intensified continuity revisited",
+        "url":"http://davidbordwell.net/blog/?p=859",
+        "readed":false
+    },
+    {
+        "id": 61,
+        "chapter":6,
+        "title":"Cutting remarks: On THE GOOD GERMAN, classical style, and the Police Tactical Unit",
+        "url":"http://davidbordwell.net/blog/?p=91",
+        "readed":false
+    },
+    {
+        "id": 62,
+        "chapter":6,
+        "title":"Bando on the run",
+        "url":"http://davidbordwell.net/blog/?p=911",
+        "readed":false
+    },
+    {
+        "id": 63,
+        "chapter":6,
+        "title":"Some cuts I have known and loved",
+        "url":"http://davidbordwell.net/blog/?p=2346",
+        "readed":false
+    },
+    {
+        "id": 64,
+        "chapter":7,
+        "title":"Christian Bale picks up a rail",
+        "url":"http://davidbordwell.net/blog/?p=963",
+        "readed":false
+    },
+    {
+        "id": 65,
+        "chapter":7,
+        "title":"What does a Water Horse sound like?",
+        "url":"http://davidbordwell.net/blog/?p=1718",
+        "readed":false
+    },
+    {
+        "id": 66,
+        "chapter":7,
+        "title":"The boy in the Black Hole",
+        "url":"http://davidbordwell.net/blog/?p=2212",
+        "readed":false
+    },
+    {
+        "id": 67,
+        "chapter":8,
+        "title":"The sarcastic laments of Béla Tarr",
+        "url":"http://davidbordwell.net/blog/?p=1315",
+        "readed":false
+    },
+    {
+        "id": 68,
+        "chapter":8,
+        "title":"Bergman, Antonioni, and the stubborn stylists",
+        "url":"http://davidbordwell.net/blog/?p=1139",
+        "readed":false
+    },
+    {
+        "id": 69,
+        "chapter":8,
+        "title":"Reflections in a crystal eye",
+        "url":"http://davidbordwell.net/blog/?p=2379",
+        "readed":false
+    },
+    {
+        "id": 70,
+        "chapter":8,
+        "title":"Gradation of emphasis, starring Glenn Ford",
+        "url":"http://davidbordwell.net/blog/?p=2986",
+        "readed":false
+    },
+    {
+        "id": 71,
+        "chapter":8,
+        "title":"Niceties: how classical filmmaking can be at once simple and precise",
+        "url":"http://davidbordwell.net/blog/?p=3878",
+        "readed":false
+    },
+    {
+        "id": 72,
+        "chapter":9,
+        "title":"Swords vs. lightsabers",
+        "url":"http://davidbordwell.net/blog/?p=788",
+        "readed":false
+    },
+    {
+        "id": 73,
+        "chapter":9,
+        "title":"Superheroes for sale",
+        "url":"http://davidbordwell.net/blog/?p=2713",
+        "readed":false
+    },
+    {
+        "id": 74,
+        "chapter":10,
+        "title":"Showing what can’t be filmed",
+        "url":"http://davidbordwell.net/blog/?p=3837",
+        "readed":false
+    },
+    {
+        "id": 75,
+        "chapter":10,
+        "title":"Lewis Klahr X 3, X 4",
+        "url":"http://davidbordwell.net/blog/?p=157",
+        "readed":false
+    },
+    {
+        "id": 76,
+        "chapter":10,
+        "title":"3 notions about CREMASTER 2",
+        "url":"http://davidbordwell.net/blog/?p=418",
+        "readed":false
+    },
+    {
+        "id": 77,
+        "chapter":10,
+        "title":"Lines of sight and light",
+        "url":"http://davidbordwell.net/blog/?p=2198",
+        "readed":false
+    },
+    {
+        "id": 78,
+        "chapter":10,
+        "title":"Do sell us shorts",
+        "url":"http://davidbordwell.net/blog/?p=1930",
+        "readed":false
+    },
+    {
+        "id": 79,
+        "chapter":10,
+        "title":"Too many toons? Then why are they making so much money?",
+        "url":"http://davidbordwell.net/blog/?p=338",
+        "readed":false
+    },
+    {
+        "id": 80,
+        "chapter":10,
+        "title":"By Annie standards",
+        "url":"http://davidbordwell.net/blog/?p=178",
+        "readed":false
+    },
+    {
+        "id": 81,
+        "chapter":10,
+        "title":"Pausing and chortling: A tribute to Bob Clampett",
+        "url":"http://davidbordwell.net/blog/?p=1991",
+        "readed":false
+    },
+    {
+        "id": 82,
+        "chapter":10,
+        "title":"Tracking down Aardman creatures",
+        "url":"http://davidbordwell.net/blog/?p=1795",
+        "readed":false
+    },
+    {
+        "id": 83,
+        "chapter":10,
+        "title":"Reflections on CARS",
+        "url":"http://davidbordwell.net/blog/?p=16",
+        "readed":false
+    },
+    {
+        "id": 84,
+        "chapter":10,
+        "title":"Rat rapture",
+        "url":"http://davidbordwell.net/blog/?p=1207",
+        "readed":false
+    },
+    {
+        "id": 85,
+        "chapter":10,
+        "title":"A glimpse into the Pixar kitchen",
+        "url":"http://davidbordwell.net/blog/?p=2205",
+        "readed":false
+    },
+    {
+        "id": 86,
+        "chapter":10,
+        "title":"Uncle Walt the artist",
+        "url":"http://davidbordwell.net/blog/?p=247",
+        "readed":false
+    },
+    {
+        "id": 87,
+        "chapter":11,
+        "title":"In critical condition",
+        "url":"http://davidbordwell.net/blog/?p=2315",
+        "readed":false
+    },
+    {
+        "id": 88,
+        "chapter":11,
+        "title":"Love isn’t all you need",
+        "url":"http://davidbordwell.net/blog/?p=4102",
+        "readed":false
+    },
+    {
+        "id": 89,
+        "chapter":11,
+        "title":"Creating a classic, with a little help from your pirate friends",
+        "url":"http://davidbordwell.net/blog/?p=1809",
+        "readed":false
+    },
+    {
+        "id": 90,
+        "chapter":11,
+        "title":"Film analyses from earlier editions of Film Art",
+        "url":"http://www.davidbordwell.net/filmart/index.php",
+        "readed":false
+    },
+    {
+        "id": 91,
+        "chapter":11,
+        "title":"Lessons from BABEL",
+        "url":"http://davidbordwell.net/blog/?p=147",
+        "readed":false
+    },
+    {
+        "id": 92,
+        "chapter":11,
+        "title":"Another pebble in your shoe",
+        "url":"http://davidbordwell.net/blog/?p=202",
+        "readed":false
+    },
+    {
+        "id": 93,
+        "chapter":11,
+        "title":"Cronenberg’s violent reversals",
+        "url":"http://davidbordwell.net/blog/?p=1412",
+        "readed":false
+    },
+    {
+        "id": 94,
+        "chapter":11,
+        "title":"THE DEPARTED: No departure",
+        "url":"http://davidbordwell.net/blog/?p=18",
+        "readed":false
+    },
+    {
+        "id": 95,
+        "chapter":11,
+        "title":"Weather Bird flies again",
+        "url":"http://davidbordwell.net/blog/?p=358",
+        "readed":false
+    },
+    {
+        "id": 96,
+        "chapter":11,
+        "title":"Watching movies very, very slowly",
+        "url":"http://davidbordwell.net/blog/?p=1024",
+        "readed":false
+    },
+    {
+        "id": 97,
+        "chapter":11,
+        "title":"Not back to the future, but ahead to the past",
+        "url":"http://davidbordwell.net/blog/?p=66",
+        "readed":false
+    },
+    {
+        "id": 98,
+        "chapter":11,
+        "title":"Can they make ’em like they used to? continued",
+        "url":"http://davidbordwell.net/blog/?p=195",
+        "readed":false
+    },
+    {
+        "id": 99,
+        "chapter":11,
+        "title":"Around the world in 750 pages",
+        "url":"http://davidbordwell.net/blog/?p=3682",
+        "readed":false
+    },
+    {
+        "id": 100,
+        "chapter":11,
+        "title":"Professor sees more parallels between things, other things",
+        "url":"http://davidbordwell.net/blog/?p=901",
+        "readed":false
+    },
+    {
+        "id": 101,
+        "chapter":11,
+        "title":"Lucky ’13",
+        "url":"http://davidbordwell.net/blog/?p=2674",
+        "readed":false
+    },
+    {
+        "id": 102,
+        "chapter":11,
+        "title":"Rio Jim, in discrete fragments",
+        "url":"http://davidbordwell.net/blog/?p=2590",
+        "readed":false
+    },
+    {
+        "id": 103,
+        "chapter":11,
+        "title":"His majesty the American, leaping for the moon",
+        "url":"http://davidbordwell.net/blog/?p=3044",
+        "readed":false
+    },
+    {
+        "id": 104,
+        "chapter":11,
+        "title":"Preserving two masters",
+        "url":"http://davidbordwell.net/blog/?p=3116",
+        "readed":false
+    },
+    {
+        "id": 105,
+        "chapter":11,
+        "title":"An old-fashioned, sentimental avant-garde film",
+        "url":"http://davidbordwell.net/blog/?p=3720",
+        "readed":false
+    },
+    {
+        "id": 106,
+        "chapter":11,
+        "title":"All singing! All dancing! All teaching!",
+        "url":"http://davidbordwell.net/blog/?p=1783",
+        "readed":false
+    },
+    {
+        "id": 107,
+        "chapter":11,
+        "title":"Bs in their bonnets: A three-day conversation well worth the reading",
+        "url":"http://davidbordwell.net/blog/?p=438",
+        "readed":false
+    },
+    {
+        "id": 108,
+        "chapter":11,
+        "title":"Charlie, meet Kentaro",
+        "url":"http://davidbordwell.net/blog/?p=484",
+        "readed":false
+    },
+    {
+        "id": 109,
+        "chapter":11,
+        "title":"Fantasy franchises or franchise fantasies?",
+        "url":"http://davidbordwell.net/blog/?p=1043",
+        "readed":false
+    },
+    {
+        "id": 110,
+        "chapter":11,
+        "title":"Visionary outlaw mavericks on the dark edge; or, Indie Guignol",
+        "url":"http://davidbordwell.net/blog/?p=339",
+        "readed":false
+    },
+    {
+        "id": 111,
+        "chapter":11,
+        "title":"Legacies",
+        "url":"http://davidbordwell.net/blog/?p=1261",
+        "readed":false
+    },
+    {
+        "id": 112,
+        "chapter":11,
+        "title":"Running on almost empty",
+        "url":"http://davidbordwell.net/blog/?p=367",
+        "readed":false
+    },
+    {
+        "id": 113,
+        "chapter":11,
+        "title":"Two Chinese men of the cinema",
+        "url":"http://davidbordwell.net/blog/?p=1097",
+        "readed":false
+    },
+    {
+        "id": 114,
+        "chapter":11,
+        "title":"Ashes to Ashes (Redux)",
+        "url":"http://davidbordwell.net/blog/?p=3133",
+        "readed":false
+    },
+    {
+        "id": 115,
+        "chapter":11,
+        "title":"A glance at blows",
+        "url":"http://davidbordwell.net/blog/?p=3208",
+        "readed":false
+    },
+    {
+        "id": 116,
+        "chapter":11,
+        "title":"Happy birthday, Film Workshop",
+        "url":"http://davidbordwell.net/blog/?p=4210",
+        "readed":false
+    },
+    {
+        "id": 117,
+        "chapter":11,
+        "title":"American (Movie) Madness",
+        "url":"http://davidbordwell.net/blog/?p=2326",
+        "readed":false
+    },
+    {
+        "id": 118,
+        "chapter":11,
+        "title":"From Hollywood to Atlanta to us",
+        "url":"http://davidbordwell.net/blog/?p=335",
+        "readed":false
+    },
+    {
+        "id": 119,
+        "chapter":11,
+        "title":"An appetite for artifice",
+        "url":"http://davidbordwell.net/blog/?p=237",
+        "readed":false
+    },
+    {
+        "id": 120,
+        "chapter":11,
+        "title":"Cavalcanti + Ealing = a little-known gem",
+        "url":"http://davidbordwell.net/blog/?p=2303",
+        "readed":false
+    },
+    {
+        "id": 121,
+        "chapter":11,
+        "title":"TANGO marathon",
+        "url":"http://davidbordwell.net/blog/?p=31",
+        "readed":false
+    },
+    {
+        "id": 122,
+        "chapter":11,
+        "title":"Archive for the 'Festivals' Category",
+        "url":"http://www.davidbordwell.net/blog/category/festivals/",
+        "readed":false
+    }
+    ]
+}
